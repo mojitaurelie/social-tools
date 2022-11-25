@@ -1,0 +1,8 @@
+provider:
+  twitter:
+    enable: yes
+    authentication:
+      api_key: ""
+      api_secret: ""
+server:
+  port: 8080
